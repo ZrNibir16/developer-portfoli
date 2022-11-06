@@ -22,7 +22,7 @@ h3 {
 
 section {
     display: flex;
-    margin-bottom: 80px;
+    margin-bottom: 60px;
 }
 
 .first {
@@ -84,7 +84,7 @@ p {
 .Debutakhum {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: right;
+    height: 700px;
     background-size: 70px;
-    padding-bottom: 50%;
 }
